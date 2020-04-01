@@ -1,2 +1,2 @@
 # QuizCreator
-Create Moodle type questions
+Create Moodxle type questions
